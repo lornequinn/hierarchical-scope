@@ -1,0 +1,5 @@
+<?php
+
+use LorneQuinn\HierarchicalScope\Tests\TestCase;
+
+uses(TestCase::class)->in(__DIR__);
